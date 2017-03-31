@@ -1,0 +1,91 @@
+nav{
+	background-color: gray;
+
+	text-align: right;
+	
+}
+
+nav li:first-child{
+	margin-right: -5px;
+}
+
+nav li{
+	width: 100px;
+	
+	height: 50px;
+	line-height: 50px;
+	
+	display: inline-block;
+	
+	
+}
+
+nav li:last-child{
+	
+}
+
+nav li li{
+	
+	background-color: gray;
+	width: 100px;
+}
+ 
+nav a{
+	text-decoration: none;
+	display: block;
+	transition: .5s background-color;
+}
+nav a:hover{
+	background-color: red;
+}
+nav a.active{
+	background-color: gray;
+	color: red;
+	cursor default;
+}
+
+
+
+/*SubMenus*/
+
+nav ul{
+	padding: 0;
+	display: inline-block;
+}
+nav ul a{
+	
+}
+nav ul li{
+	font-size: .8em;
+	
+}
+nav > ul > li{
+	 text-align: center;
+}
+nav > ul > li > a{
+	 padding-left: 0;
+
+}
+
+
+nav li ul{
+	position: absolute;
+	display: none;
+	width: inherit;
+	
+}
+nav li:hover ul{
+	display: block;
+}
+nav li ul li{
+	display: block;
+}
+
+ nav {
+	text-align: right;
+	
+}
+
+nav ul:firstchild{
+	text-align: left;
+}

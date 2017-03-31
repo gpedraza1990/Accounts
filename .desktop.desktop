@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Name=IpTV
+Comment=Streaming over web
+Exec=sensible-browser http://localhost/cuentas
+Terminal=false
+Type=Application
+Icon=/usr/share/cuetnas/ico.png
+Categories=Developer;Streming;
+Name[en_US]=.desktop

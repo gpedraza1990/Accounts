@@ -1,0 +1,1147 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ut",
+				"utf8_encode"
+			],
+			[
+				"equ",
+				"equipo2"
+			],
+			[
+				"nivel",
+				"nivel"
+			],
+			[
+				"lo",
+				"login"
+			],
+			[
+				"nombre",
+				"nombreA"
+			],
+			[
+				"selec",
+				"select"
+			],
+			[
+				"echo",
+				"echo	echo \"…\""
+			],
+			[
+				"id",
+				"idArea"
+			],
+			[
+				"su",
+				"submit	.submit()"
+			],
+			[
+				"modificar",
+				"modificar_area"
+			],
+			[
+				"onc",
+				"onclick	Attr"
+			],
+			[
+				"att",
+				"attr	.attr() - single"
+			],
+			[
+				"ejec",
+				"ejec_num"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"enti",
+				"entidad1"
+			],
+			[
+				"idendi",
+				"identidad"
+			],
+			[
+				"css",
+				"css	.css() - single"
+			],
+			[
+				"prop",
+				"prop	.prop() - single"
+			],
+			[
+				"filter",
+				"filter	.filter()"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"eac",
+				"each	.each()"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"arry",
+				"array"
+			],
+			[
+				"ea",
+				"each	$.each()"
+			],
+			[
+				"htm",
+				"html	.html()"
+			],
+			[
+				"a",
+				"ajax	$.ajax()"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"sesio",
+				"session_start"
+			],
+			[
+				"page_",
+				"page_size"
+			],
+			[
+				"album",
+				"album_name"
+			],
+			[
+				"$scp",
+				"$scope	AngularJS"
+			],
+			[
+				"con",
+				"controller	AngularJS"
+			],
+			[
+				"modu",
+				"angular.module"
+			],
+			[
+				"ang",
+				"angular.injector"
+			],
+			[
+				"ad",
+				"admin-home"
+			],
+			[
+				"module",
+				"modules"
+			],
+			[
+				"data",
+				"datosFactoria"
+			],
+			[
+				"hell",
+				"helloService"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"las",
+				"lastname"
+			],
+			[
+				"fir",
+				"firstname"
+			],
+			[
+				"v",
+				"view2"
+			],
+			[
+				"url",
+				"urlRouterProvider"
+			],
+			[
+				"n",
+				"ng-app"
+			],
+			[
+				"Even",
+				"EVENT_RECEIVED"
+			],
+			[
+				"status",
+				"statusColor"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"load",
+				"loadMessage"
+			],
+			[
+				"timeo",
+				"timeaout"
+			],
+			[
+				"unbin",
+				"unbindWatcher"
+			],
+			[
+				"contro",
+				"controller"
+			],
+			[
+				"co",
+				"controllers"
+			],
+			[
+				"M",
+				"myApp"
+			],
+			[
+				"pare",
+				"parentsUntil	.parentsUntil()"
+			],
+			[
+				"he",
+				"helloMessage"
+			],
+			[
+				"sc",
+				"scope"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"Tem",
+				"TEMPPATH"
+			],
+			[
+				"wp_na",
+				"wp_nav_menu"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"regis",
+				"register_nav_menu"
+			],
+			[
+				"register_na",
+				"register_nav_menus"
+			],
+			[
+				"req",
+				"require_once〔keyword〕"
+			],
+			[
+				"blo",
+				"bloginfo"
+			],
+			[
+				"defin",
+				"defined〔function〕"
+			],
+			[
+				"lin",
+				"link	Tag"
+			],
+			[
+				"defi",
+				"define〔function〕"
+			],
+			[
+				"def",
+				"define〔keyword〕"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"padi",
+				"padding-bottom"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"whi",
+				"width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"PADD",
+				"padding-top"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"fo",
+				"footer	<footer>"
+			],
+			[
+				"top",
+				"margin-top"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"len",
+				"line-height"
+			],
+			[
+				"si",
+				"font-size"
+			],
+			[
+				"siz",
+				"background-size"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"PA",
+				"padding-top"
+			],
+			[
+				"MAR",
+				"margin-top"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"b",
+				"border-color"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"border-bottom",
+				"border-bottom-width"
+			],
+			[
+				"spe",
+				"speciall"
+			],
+			[
+				"cli",
+				"onclick"
+			],
+			[
+				"mo",
+				"$mobileMenu〔variable〕"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"hea",
+				"header	<header>"
+			],
+			[
+				"ph",
+				"php	<?php … ?>"
+			],
+			[
+				"styl",
+				"stylesheet"
+			],
+			[
+				"style",
+				"style"
+			],
+			[
+				"im",
+				"img/3"
+			],
+			[
+				"col",
+				"colgroup	<colgroup>"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"ro",
+				"row"
+			],
+			[
+				"inc",
+				"include〔keyword〕"
+			],
+			[
+				"script",
+				"script	Tag"
+			],
+			[
+				"scri",
+				"script"
+			],
+			[
+				"scr",
+				"script	Tag"
+			],
+			[
+				"m",
+				"meta"
+			],
+			[
+				"bo",
+				"blockquote	<blockquote>"
+			],
+			[
+				"get_",
+				"get_headers"
+			],
+			[
+				"do",
+				"dosen't"
+			],
+			[
+				"rem",
+				"remove_action〔function〕"
+			],
+			[
+				"tes",
+				"test_gabriel_footer_message"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"vi",
+				"view"
+			],
+			[
+				"admin",
+				"admin_url〔function〕"
+			],
+			[
+				"conte",
+				"content_url〔function〕"
+			],
+			[
+				"t",
+				"twig"
+			],
+			[
+				"ht",
+				"html"
+			],
+			[
+				"O",
+				"ObjectManager"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/servicio_conect.php",
+			"settings":
+			{
+				"buffer_size": 19548,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Searching 460 files for \"ValInsertServConect\" (case sensitive)\n\nC:\\xampp\\htdocs\\WORK\\Informacion_EstadisticaV2\\js\\funcionesJS.js:\n  491  			}\n  492  			//validaciÃ³n de insertar un servicio de conectividad\n  493: 			function ValInsertServConect()\n  494  			{\n  495  				\n\nC:\\xampp\\htdocs\\WORK\\Informacion_EstadisticaV2\\Vistas\\servicio_conect.php:\n  486                  <tr>\n  487                    <td height=\"27\">&nbsp;</td>\n  488:                   <td align=\"left\"><input name=\"btn_Aceptar\" type=\"submit\" class=\"boton\" id=\"btn_Aceptar\" value=\" \" onClick=\"return ValInsertServConect()\"/></td>\n  489                    <td align=\"left\"><input name=\"btn_Cancelar\" type=\"submit\" class=\"botonc\" id=\"btn_Cancelar\" value=\" \" /></td>\n  490                  </tr>\n\n2 matches across 2 files\n",
+			"settings":
+			{
+				"buffer_size": 786,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/js/funcionesJS.js",
+			"settings":
+			{
+				"buffer_size": 23028,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			],
+			[
+				"defa",
+				"Preferences: Settings - Default"
+			],
+			[
+				"pac",
+				"Preferences: Package Control Settings – User"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 115.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"git branch",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"install_prereleases",
+			"import sys; sys.path",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"SublimeLinter: javascript activated",
+			"SublimeLinter: ",
+			"clean",
+			"clear",
+			"celar",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" https://sublime.wbond.net/"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/modificar_clasificacion.php",
+		"/E/Project/WEB/NodeJS/Projects/first-project/test.js",
+		"/C/xampp/htdocs/WORK/Informacion_Estadistica/pages/inicio.php",
+		"/E/Project/WEB/NodeJS/Projects/first-project/index.js",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/consolidado_cant_pc_enred.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Print2/plantilla.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/consolid_munic_situac_areas.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/consolid_munic_servicio_conec.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/consolid_munic_migracion.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/consolid_munic_estado_plantilla.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/consolid_munic_equipamiento.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/reporte_estado_plantilla.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/consolidado_equipamiento.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/consolidado_estado_plantilla.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/consolidado_situac_areas.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/consolidado_servicio_conec.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/consolidado_migracion.php",
+		"/E/Project/WEB/NodeJS/Projects/first-project/countstream.js",
+		"/E/Project/WEB/NodeJS/Projects/first-project/package.json",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/consolid_munic_cant_pc_enred.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/reporte_migracion.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/reporte_servicio_conec.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Print2/servicio_conec.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/reporte_equipamiento.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/equipam_tecnico.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/reporte_cant_pc_enred.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/rep_servicio_conec.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/mostrar_equipam_tecnico.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Controladores/obtener_clasificacion.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/mostrar_servicio_conect.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/mostrar_estado_plantilla.php",
+		"/C/xampp/htdocs/WORK/Informacion_Estadistica/pages/mostrar_equipam_tecnico.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/situac_areas.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/js/funcionesJS.js",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/modificar_situac_areas.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/menu.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/modificar_pcenred.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/insertar_pcenred.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/insertar_area.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/insertar_servconec.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/insertar_tipo.php",
+		"/C/xampp/htdocs/WORK/Informacion_Estadistica/pages/menu.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/reporte_situac_areas.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Print2/sitareas.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Print2/migracion.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/mostrar_pcenred.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/mostrar_situac_areas.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/mostrar_migracion.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/mostrar_act_plantilla.php",
+		"/C/xampp/htdocs/WORK/Informacion_Estadistica/pages/mostrar_servicio_conect.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/areas.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/modificar_act_plantilla.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/estado_plantilla.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/act_plantilla.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/servicio_conect.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/traza.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/insertar_situacion.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/modificar_situacion.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/modificar_criterio.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/insertar_criterio.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/modificar_area.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/insertar_nivel.php",
+		"/C/xampp/htdocs/WORK/Informacion_Estadistica/pages/modificar_area.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/insertar_usuario.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Controladores/controlador_insertar_usuario.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/listar_usuarios.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/modificar_eqtecnico.php",
+		"/C/xampp/htdocs/WORK/Informacion_Estadistica/pages/insertar_usuario.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/error_autenticacion.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/templates/plantilla.dwt",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Controladores/consulta.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/pagina_principal.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/index.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/descargar_bd.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/descargar_bd - copia.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/cambiar_contra2.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/pagina_principal.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/mostrar_usuario.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/modificar_usuario.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/modificar_tipo.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/modificar_servicio_conect.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/modificar_nivel.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/modificar_equipo.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/modificar_enlace.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/modificar_cub.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/insertar_ups.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/insertar_pc.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/insertar_impresora.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/insertar_equipo.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/insertar_enlace.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/insertar_clasificacion.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/xajax/xajax.inc.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/cambiar_pass.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/eliminar.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/inicio.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/reporte_estado_plantilla - copia.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Print2/pcenred_excel.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Print2/pcenred.php",
+		"/C/xampp/htdocs/WORK/Informacion_Estadistica/pages/reporte_servicio_conec.php",
+		"/C/xampp/htdocs/WORK/Informacion_Estadistica/pages/reporte_cant_pc_enred_us.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Print2/cons_prueba_excel.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Print2/cons_prueba.php",
+		"/C/xampp/htdocs/WORK/Informacion_Estadistica/pages/reporte_servicio_conec_us.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Print2/prueba.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Print2/prueba_excel.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Print2/cons_plantilla.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/modificar_pass.php",
+		"/C/xampp/htdocs/WORK/Informacion_Estadistica/pages/eliminar.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/style/estilos.css",
+		"/C/xampp/htdocs/WORK/Informacion_Estadistica/pages/cargar.php",
+		"/C/xampp/htdocs/WORK/Informacion_Estadistica/pages/servicio_conect.php",
+		"/C/xampp/htdocs/WORK/Informacion_Estadistica/pages/controlE.php",
+		"/C/xampp/htdocs/WORK/Informacion_Estadistica/pages/conexion.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/js/jquery.js",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/js/jquery.1.7.1.min.js",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/KoolTreeView/styles/default/default.css",
+		"/C/xampp/htdocs/WORK/Informacion_Estadistica/pages/equipam_tecnico.php",
+		"/C/xampp/htdocs/WORK/Informacion_Estadistica/pages/insertar_equipo.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/KoolSlideMenu/koolslidemenu.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/autenticar.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Modelo/conexion.php",
+		"/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/conexion_emilio.php",
+		"/E/Project/WEB/NodeJS/Projects/Hello World/web.js",
+		"/E/Project/WEB/NodeJS/Projects/Pagination response/web - copia.js",
+		"/E/Project/WEB/NodeJS/Projects/Pagination response/web.js",
+		"/E/Project/WEB/NodeJS/Projects/JSON Server/simple_server.js",
+		"/E/Project/WEB/NodeJS/Projects/Request and response objects/web.js",
+		"/E/Project/WEB/NodeJS/Projects/Multiple requests/web.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"get",
+			"btn_Aceptar",
+			"ValInsertServConect",
+			"$(document).ready(function(){",
+			"plantilla",
+			"page",
+			"conexion",
+			"cone",
+			"Get_ListEntidades",
+			"window",
+			"onClick=\"w",
+			"onClick",
+			"$clasificacion",
+			"clasificacion",
+			"strin",
+			"equipo_seleccionado",
+			"matriz_tipo",
+			"nombreA",
+			"conexion",
+			"area1",
+			"k",
+			"pages",
+			"seguro que desea eliminar situaci",
+			"seguro que desea elmininar situaci",
+			"Entidad",
+			"validarletras",
+			"Cantidad",
+			"Hijos",
+			"Entidad",
+			"form",
+			"Get_ListEntidades",
+			"page",
+			"Cancelar",
+			"Cancelar()",
+			"btn_cancelar",
+			"Cancelar()",
+			"pages",
+			"cons_pers",
+			"page",
+			"Entidad",
+			"cons_pers",
+			"conexion",
+			"pages",
+			"consolidado",
+			"desea eliminar el servicio de co",
+			"$cons_pers",
+			"seguro que desea eliminar el par",
+			"seguro que desea elimin",
+			"pages",
+			"include 'conexion.php';",
+			"conexion",
+			"page",
+			"insertar tipo ",
+			"clasificaci",
+			"¿",
+			"seguro que desea",
+			"\");\n",
+			"mens2",
+			"eliminar",
+			"Validar",
+			"aceptar",
+			"HELLO WORLD",
+			"Area",
+			"onclick=",
+			"usu",
+			"mens",
+			"ñ",
+			"Á",
+			"ú",
+			"ó",
+			"í",
+			"á",
+			"debe insertar un ",
+			"iso-8859-1",
+			"iso",
+			"page",
+			"�",
+			"�rea",
+			"�",
+			"Hijos",
+			"Area",
+			"get",
+			"$id",
+			"id",
+			"mens",
+			"aceptar",
+			"form",
+			"$sql= \"SELECT * FROM `entidad`WHERE `nivel`=\".$nivel.\"\";",
+			"Ocultar",
+			"mens",
+			"pages",
+			"include 'conexion.php';",
+			"insertar_servconec",
+			"inicio.php",
+			"$idArea",
+			"entidad",
+			"cons_pers",
+			"enlace",
+			"area",
+			"ValInsertServConect()",
+			"alert",
+			"enlace",
+			"form",
+			"$idArea",
+			"Get_ListEntidades",
+			"$_Po",
+			"page",
+			"contra",
+			"include 'conexion.php';",
+			"pages",
+			"include 'conexion.php';",
+			"pages",
+			"include 'conexion.php';",
+			"page",
+			"include 'conexion.php';",
+			"page",
+			"include 'conexion.php';",
+			"page",
+			"btn_Aceptar",
+			"$prueba",
+			"name=\"area\"",
+			"ubi",
+			"Area",
+			"menu",
+			"menu\\",
+			"menu",
+			"include 'conexion.php';",
+			"page"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"include '../Modelo/conexion.php';",
+			"Â¿",
+			"Ã±",
+			"Ã",
+			"u00fa",
+			"Ã³",
+			"Ã¡",
+			"UTF-8",
+			"área",
+			"$sql= \"SELECT * FROM entidad WHERE id_areasup =$entidad ORDER BY nivel\";",
+			"include '../Modelo/conexion.php';",
+			"",
+			"include '../Modelo/conexion.php';",
+			"<?php print IMG; ?>/",
+			"<?php print IMG; ?>",
+			"sm",
+			"ms",
+			"h2",
+			"em",
+			"col-lg",
+			"'",
+			"integer",
+			"100",
+			"Symfony"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/Vistas/servicio_conect.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19548,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1057,
+								1057
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 287.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 786,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										225,
+										244
+									],
+									[
+										567,
+										586
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								230,
+								230
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/xampp/htdocs/WORK/Informacion_EstadisticaV2/js/funcionesJS.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23028,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13511,
+								13511
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 8802.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "work.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\xampp\\htdocs\\Symfony\\src\\Symfony\\TiendaBundle\\Entity\\Tienda.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

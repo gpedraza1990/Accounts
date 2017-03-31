@@ -1,0 +1,2 @@
+Comando para crear mysqldump table
+ mysqldump -h localhost -u root -proot -c --add-drop-table --add-locks --quick --lock-tables cuentas > cuentas.sql

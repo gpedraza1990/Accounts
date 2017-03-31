@@ -1,0 +1,749 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"d",
+				"dropdown"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"di",
+				"die"
+			],
+			[
+				"resul",
+				"$result〔variable〕"
+			],
+			[
+				"user",
+				"$userStatus〔variable〕"
+			],
+			[
+				"sq",
+				"$sql2〔variable〕"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"usuario",
+				"usuario2"
+			],
+			[
+				"usua",
+				"$usuario2〔variable〕"
+			],
+			[
+				"_",
+				"$_POST〔variable〕"
+			],
+			[
+				"ob_en",
+				"ob_end_flush"
+			],
+			[
+				"p",
+				"php	<?php … ?>"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"mari",
+				"margin-left"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"whi",
+				"width"
+			],
+			[
+				"wh",
+				"width"
+			],
+			[
+				"padi",
+				"padding-left"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"alin",
+				"align-items"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"gifcard",
+				"gifcard"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Vistas/newClientForm.php",
+			"settings":
+			{
+				"buffer_size": 3066,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Vistas/newDocumentForm.php",
+			"settings":
+			{
+				"buffer_size": 1717,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Vistas/newSalerForm.php",
+			"settings":
+			{
+				"buffer_size": 946,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/table-filter.js",
+			"settings":
+			{
+				"buffer_size": 25905,
+				"line_ending": "Unix",
+				"name": "table-filter.js"
+			}
+		},
+		{
+			"file": "Vistas/newUserForm.php",
+			"settings":
+			{
+				"buffer_size": 2218,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "include/footer.php",
+			"settings":
+			{
+				"buffer_size": 299,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "include/header.php",
+			"settings":
+			{
+				"buffer_size": 2516,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/formStyle.css",
+			"settings":
+			{
+				"buffer_size": 1281,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Vistas/main_page.php",
+			"settings":
+			{
+				"buffer_size": 93,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 33.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '261dd1222b4693ce6d4f85f9c827ac06' + '6d5ab8ebdd020086947172a8a1356bb6'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package';",
+			"import urllib.request,os,hashlib; h = '261dd1222b4693ce6d4f85f9c827ac06' + '6d5ab8ebdd020086947172a8a1356bb6'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib2,os,hashlib; h = '261dd1222b4693ce6d4f85f9c827ac06' + '6d5ab8ebdd020086947172a8a1356bb6'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation') ",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/Informacion_EstadisticaV2/Vistas",
+		"/var/www/Centos",
+		"/var/www/Centos/Controladores",
+		"/var/www/Centos/Vistas",
+		"/var/www/Centos/css",
+		"/var/www/Centos/include",
+		"/var/www/Centos/js"
+	],
+	"file_history":
+	[
+		"/var/www/Centos/Vistas/countsOperationsForm.php",
+		"/var/www/Centos/Controladores/cuentasPorCobrar.php",
+		"/var/www/Centos/Controladores/insertUser.php",
+		"/media/gpr/Disco local/Project/WEB/Coursera/Web debeloper full stack/Front-end web UI Frameworks tools/week1/Confusion/index.html",
+		"/var/www/Centos/include/footer.php",
+		"/var/www/Centos/include/header.php",
+		"/var/www/Centos/js/bootstrap.js",
+		"/var/www/Centos/Vistas/newClientForm.php",
+		"/var/www/Informacion_EstadisticaV2/Vistas/insertar_equipo.php",
+		"/var/www/Informacion_EstadisticaV2/Vistas/insertar_impresora.php",
+		"/var/www/Informacion_EstadisticaV2/Vistas/modificar_area.php",
+		"/var/www/Informacion_EstadisticaV2/Vistas/insertar_nivel.php",
+		"/var/www/Centos/Controladores/newClient.php",
+		"/var/www/Centos/Controladores/newDocument.php",
+		"/var/www/Centos/Controladores/verificar.php",
+		"/var/www/Centos/index.php",
+		"/var/www/Centos/Vistas/main_page.php",
+		"/var/www/Centos/Vistas/newSalerForm.php",
+		"/var/www/Centos/Controladores/newSaler.php",
+		"/var/www/Centos/Vistas/newDocumentForm.php",
+		"/var/www/Centos/Vistas/newUserForm.php",
+		"/var/www/Informacion_EstadisticaV2/Controladores/controlador_insertar_usuario.php",
+		"/var/www/Centos/Controladores/autenticar.php",
+		"/var/www/Centos/Modelo/conexion.php",
+		"/var/www/Centos/indexold.php",
+		"/var/www/Centos/css/style.css",
+		"/home/gpr/Downloads/iptvdb.sql",
+		"/usr/share/iptv/db/iptvdb.sql",
+		"/var/www/Centos/Vistas/error_autenticacion.php",
+		"/media/gpr/Disco local/Project/WEB/Coursera/Web Design for Everydody/CSS3/projects/assignment-1 2/index.html",
+		"/media/gpr/Disco local/Project/WEB/Coursera/Web Design for Everydody/CSS3/projects/assignment-1 2/css/hw1.css",
+		"/var/www/Informacion_EstadisticaV2/Modelo/conexion.php",
+		"/var/www/Centos/Controladores/error_autenticacion.php",
+		"/var/www/Centos/autenticar.php",
+		"/media/gpr/38EA5A5BEA5A158A/xampp/htdocs/WORK/New/Informacion_EstadisticaV2/Modelo/conexion.php",
+		"/media/gpr/38EA5A5BEA5A158A/xampp/htdocs/WORK/New/Informacion_EstadisticaV2/conexion_emilio.php",
+		"/media/gpr/Disco local/Project/WEB/WORK/Symfony/iptv/install.sh",
+		"/usr/share/iptv/src/Dmcl/AppBundle/Entity/GifCard.php",
+		"/usr/share/iptv/src/Dmcl/AppBundle/Controller/Backend/GifCardController.php",
+		"/usr/share/iptv/src/Dmcl/AppBundle/Controller/Backend/AdminController.php",
+		"/usr/share/iptv/app/logs/dev.log",
+		"/usr/share/iptv/src/Dmcl/AppBundle/Form/Type/VODPackagesType.php",
+		"/usr/share/iptv/src/Dmcl/AppBundle/Resources/views/Backend/VODPackages/new.html.twig",
+		"/usr/share/iptv/src/Dmcl/AppBundle/Entity/Video.php",
+		"/media/gpr/Disco local/Project/WEB/WORK/Symfony/iptv/src/Dmcl/AppBundle/Form/Type/VODPackagesType.php",
+		"/usr/share/iptv/src/Dmcl/AppBundle/Form/Type/GifCardType.php",
+		"/usr/share/iptv/src/Dmcl/AppBundle/Resources/views/Backend/gifcard/new.html.twig",
+		"/usr/share/iptv/src/Dmcl/AppBundle/Resources/views/Backend/gifcard/index.html.twig",
+		"/usr/share/iptv/app/config/security.yml",
+		"/usr/share/iptv/src/Dmcl/AppBundle/Entity/Users.php",
+		"/usr/share/iptv/src/Dmcl/AppBundle/Resources/views/Backend/include/header.html.twig",
+		"/usr/share/iptv/src/Dmcl/AppBundle/Resources/views/Backend/Video/index.html.twig",
+		"/usr/share/iptv/app/Resources/views/base_backend.html.twig",
+		"/usr/share/iptv/src/Dmcl/AppBundle/Resources/views/Backend/gifcard",
+		"/usr/share/iptv/src/Dmcl/AppBundle/Controller/Api/ApiController old.php",
+		"/usr/share/iptv/src/Dmcl/AppBundle/Controller/Api/ApiController.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/media/gpr/38EA5A5BEA5A158A/xampp/htdocs/WORK/New/Informacion_EstadisticaV2",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"include '../Modelo/conexion.php';",
+			"none",
+			"form",
+			"for",
+			"form",
+			"No pudo conectarse",
+			"iptvdb.sql",
+			"WRITE",
+			"@lazaro",
+			"USERS",
+			"Users",
+			"getFame",
+			"name",
+			"ads",
+			"setA",
+			"iptv-ads-show",
+			"base_backend.html.twig",
+			"admin_homepage",
+			"/admin/dashboard/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/var/www/Informacion_EstadisticaV2"
+		},
+		{
+			"path": "/var/www/Centos"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Vistas/newClientForm.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3066,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Vistas/newDocumentForm.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1717,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								42,
+								42
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Vistas/newSalerForm.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 946,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								900,
+								900
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 158.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "js/table-filter.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25905,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25905,
+								25905
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_name": "table-filter.js",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Vistas/newUserForm.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2218,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2218,
+								2218
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "include/footer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 299,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "include/header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2516,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								141,
+								141
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "css/formStyle.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1281,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								517,
+								517
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "Vistas/main_page.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 93,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								51,
+								51
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 323.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

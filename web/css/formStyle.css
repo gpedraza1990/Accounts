@@ -1,0 +1,81 @@
+tr.speciaColum {    
+    margin: 15px 10px 15px 10px;
+    display: inline-block; 
+}
+
+td.myLabel {
+    padding-right: 8px
+}
+
+td.space {
+    padding-right: 25px
+}
+
+input.mySubmit {
+    float: right;
+    position: relative;
+}
+
+input.myInput {
+    width: 80% ;
+}
+
+td, th {
+    text-align: left;
+    padding: 3px;
+}
+
+table.myForms {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 70%;
+}
+
+input.inputSelect {
+    width: 120%;
+    size: 100%;
+}
+
+input.inputSubmit {
+    width: 50%;
+    float: right;
+}
+
+body {
+
+    background-color: #eee;
+}
+
+.form-signin {
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+}
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+    margin-bottom: 10px;
+}
+.form-signin .checkbox {
+    font-weight: normal;
+}
+.form-signin .form-control {
+    position: relative;
+    height: auto;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 10px;
+    font-size: 16px;
+}
+.form-signin .form-control:focus {
+    z-index: 2;
+}
+.form-signin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}   
+.form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
